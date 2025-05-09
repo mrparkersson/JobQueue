@@ -25,8 +25,9 @@ A lightweight TypeScript job queue with support for:
 
 Clone the repo and install dependencies:
 
+
 ```bash
-git clone <your_repo_url>
+git clone https://github.com/mrparkersson/JobQueue.git
 cd job-queue
 npm install
 
